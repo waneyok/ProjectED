@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\библио\библио\pzz\pzz\obj\Debug\pzz.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\библио\библио\pzz\pzz\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\библио\библио\pzz\pzz\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\библио\библио\pzz\pzz\obj\Debug\pzz_MarkupCompile.cache
+C:\Users\Admin\source\repos\библио\библио\pzz\pzz\obj\Debug\pzz_MarkupCompile.lref
+C:\Users\Admin\source\repos\библио\библио\pzz\pzz\bin\Debug\pzz.exe.config
+C:\Users\Admin\source\repos\библио\библио\pzz\pzz\bin\Debug\pzz.exe
+C:\Users\Admin\source\repos\библио\библио\pzz\pzz\bin\Debug\pzz.pdb
+C:\Users\Admin\source\repos\библио\библио\pzz\pzz\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\библио\библио\pzz\pzz\obj\Debug\pzz.g.resources
+C:\Users\Admin\source\repos\библио\библио\pzz\pzz\obj\Debug\pzz.Properties.Resources.resources
+C:\Users\Admin\source\repos\библио\библио\pzz\pzz\obj\Debug\pzz.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\библио\библио\pzz\pzz\obj\Debug\pzz.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\библио\библио\pzz\pzz\obj\Debug\pzz.exe
+C:\Users\Admin\source\repos\библио\библио\pzz\pzz\obj\Debug\pzz.pdb
