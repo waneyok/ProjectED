@@ -13,3 +13,5 @@ C:\Users\wnk\Desktop\ахматов\REPOS\Project\WPractice\WPractice_4\WPractic
 C:\Users\wnk\Desktop\ахматов\REPOS\Project\WPractice\WPractice_4\WPractice_4\obj\Debug\WPractice_4.csproj.CoreCompileInputs.cache
 C:\Users\wnk\Desktop\ахматов\REPOS\Project\WPractice\WPractice_4\WPractice_4\obj\Debug\WPractice_4.exe
 C:\Users\wnk\Desktop\ахматов\REPOS\Project\WPractice\WPractice_4\WPractice_4\obj\Debug\WPractice_4.pdb
+C:\Users\wnk\Desktop\ахматов\REPOS\Project\WPractice\WPractice_4\WPractice_4\obj\Debug\Window.g.cs
+C:\Users\wnk\Desktop\ахматов\REPOS\Project\WPractice\WPractice_4\WPractice_4\obj\Debug\Window.baml
