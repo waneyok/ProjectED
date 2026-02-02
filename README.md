@@ -1,4 +1,4 @@
 # Project
 
-WPractice * == WPF Practice 
-DesignIS == HTML/CCS/JS Practice
+in this brach[main] we have WPF Practice
+WPractice \* == WPF Practice
